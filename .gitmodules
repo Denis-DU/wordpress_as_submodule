@@ -4,6 +4,6 @@
 [submodule "wp-content/plugins/CMB2"]
 	path = wp-content/plugins/CMB2
 	url = https://github.com/CMB2/CMB2.git
-[submodule "wp-content/themes/Sparkling"]
-	path = wp-content/themes/Sparkling
-	url = https://github.com/ColorlibHQ/Sparkling.git
+[submodule "wp-content/themes/twentytwenty"]
+	path = wp-content/themes/twentytwenty
+	url = https://github.com/WordPress/twentytwenty.git
